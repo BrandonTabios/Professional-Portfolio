@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Making a song for a game jam"
-date: 2023-10-01
+date: 2023-5-01
 published: true
 labels:
   - Music
