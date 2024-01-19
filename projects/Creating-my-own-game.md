@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Working together with my friend to create a game"
+image: img/game.png
+title: "Creating a game with my friend"
 date: 2024-06-01
 published: true
 labels:
