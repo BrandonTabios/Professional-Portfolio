@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/game.png
+image: img/game2.png
 title: "Creating a game with my friend"
 date: 2024-06-01
 published: true
