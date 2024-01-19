@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/game2.png
 title: "Creating a game with my friend"
-date: 2024-06-01
+date: 2024-01-06
 published: true
 labels:
   - Game Design
