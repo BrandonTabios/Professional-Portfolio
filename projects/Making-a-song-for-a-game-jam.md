@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/songpfp.png
 title: "Making a song for a game jam"
-date: 2023-5-01
+date: 2023-10-04
 published: true
 labels:
   - Music
