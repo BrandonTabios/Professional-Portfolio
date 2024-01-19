@@ -9,10 +9,9 @@
     "summary": "I am a double major in Computer Science and German at the University of Hawaii. I am expected to graduate in Spring of 2025.",
     "location": { "address": "", "postalCode": "96701", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "BrandonTabios", "url": "https://github.com/BrandonTabios" },
+      { "network": "linkedin", "brandontabios": "mollymaluhia", "url": "https://www.linkedin.com/in/brandon-tabios-4aa0782aa/" },
+      { "network": "twitter", "username": "rivergawd1", "url": "http://twitter.com/rivergawd1" }
     ]
   },
   "interests": [
@@ -35,7 +34,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science & German(expected Spring, 2025)",
       "studyType": "B.A.",
       "startDate": "2020-09-01",
       "endDate": "2025-05-01",
@@ -45,69 +44,43 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Genki Sushi",
+      "position": "Maki Sushi Chef",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-12-05",
+      "endDate": "2020-06-20",
+      "summary": "Sushi chef at Genki Sushi",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learned how to prepare sushi in a quickly and eloquent fashion",
+        "Taught many time management skills, as I worked in highschool"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "N/A",
+      "position": "German Tutor",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2019-09-05",
+      "endDate": "2019-11-20",
+      "summary": "A private german tutor for highschool students",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Taught a student different german skills, as well as organization, and study techniques",
+        "Coordinating with the German teacher, and the students parent to maximize what can be taught"
       ]
     }
   ],
+
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "LLEA BA: German Studies ACHIEVEMENT AWARD RECIPIENT",
+      "date": "Fall 2023",
+      "awarder": "German Department at UHM",
+      "summary": "German achievement award towards hard working students in the department. Also provided scholarship money as a recipient."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "LLEA BA: German Studies ACHIEVEMENT AWARD RECIPIENT",
+      "date": "Spring 2023",
+      "awarder": "German Department at UHM",
+      "summary": "A second award for the spring semester."
     }
   ],
   "references": [
