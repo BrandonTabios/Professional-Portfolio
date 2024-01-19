@@ -12,7 +12,6 @@ labels:
 summary: "Me and my friend and working together to create a game."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 ## Creation
 
@@ -28,5 +27,7 @@ Most of the game is still in its early progress stage. What I myself worked on n
 
 I learned that game design is extremely vast, especially in comparison to the popular games today. To actually be able to create and sell a game that you are proud of you need to figure out your ideas quickly. Something to keep in mind is that it is hard to complete what you are working on when you are focusing on too many things at once. Everything in game design does not have a set timeframe to complete. So it should be decided as you are working on something to set goal to complete. This would allow a clear thing to aim at as you are working. Eventually as you complete more and more that you are aiming for, then finally the creation comes to life. 
 
+## Source Code
 
+https://github.com/Barasakar/DarkSoul2D
 
