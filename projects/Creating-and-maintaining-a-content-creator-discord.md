@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/discord.png
 title: "Creating and leading a content creator discord"
 date: 2023-12-01
 published: true
@@ -12,7 +12,6 @@ labels:
 summary: "I helped a content creator create and maintain a discord to help them grow their presence online."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 ## The importance of a discord for a content creators growth
 
