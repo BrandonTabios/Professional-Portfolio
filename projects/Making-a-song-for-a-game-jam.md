@@ -12,7 +12,7 @@ labels:
 summary: "I created a song for a game jam, with ideas jammed together with coders and artists."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/songpfp.png">
 
 ## Working on a game jam
 
