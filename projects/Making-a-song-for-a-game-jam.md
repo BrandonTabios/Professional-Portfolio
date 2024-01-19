@@ -28,3 +28,4 @@ Without getting too indetail of the story written, a lot of the story was writte
 
 The song written was created in an application titled "Musescore". I was already familiar with writing music, as it was a hobby and activity that I spent my own time learning. Creating the song took me a couple of days as I struggled to figure out how to write in a style that was appropriate for the game in mind. In doing so I learned about musical techniques and ideas such as writing sinister songs with a sharp baseline for a more dramatic effect. In the end of creation I felt pretty proud and wanted to continue more projects as so.
 
+For those interested I made a video of the song here: https://www.youtube.com/watch?v=mryucf1tZ90 
