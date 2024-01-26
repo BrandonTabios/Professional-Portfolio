@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Ask Smart To Be Smart"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-01-25
 published: true
 labels:
 
@@ -11,8 +11,8 @@ labels:
 
 
 
-## Javascript is so simplistic it invokes fear
-
+## SMART Questions are for smart people
+n
 My experience with Javascript came with mixed feelings because of my previous knowledge of other languages. One of the languages I am quite familiar with is C. C is very barebones, and feels very robust in use. However, I found C fascinating for knowing what you are doing as you are writing code. For example as C has pointers, it makes it very complicated to keep track of what you are doing. However if you plan out what you are doing in C it makes it very obvious what you are trying to accomplish, and usually leaves no questions over what is wrong. When working in javascript it often feels almost like it hides what it does. You do not need to define something as an int, or a string, and rather anything could be anything. Even the use of the '==' means that you can easily type cast what you would want to. It almost feels like it ignores some forms of complication and will just bundle it up for later. So for a software engineering standpoint, I would honestly rather work in Java, C, or C++ with defined variables having set datatypes. It almost makes me fear that I will become complacent with how simple it is. 
 
 ## WODs are a task that has no set way to prepare
