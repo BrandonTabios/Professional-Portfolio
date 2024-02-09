@@ -21,8 +21,8 @@ From all of my experience with coding, I am certain that codestyles are importan
 The only real problem with enforcing coding styles is the human factor of not wanting to do more work for a purpose that does not benefit you. I personally do not find it that troublesome to deal with, however there are certainly times that I don't want to deal with it. I find it a hassle when coding styles require specific changes that feel very unneccessary. For example in the functions we needed to define for ICS314 homework. The coding style required all strings to be written with single quotes('') all files ending in a newline character, and needing specific spacing for parameters and so forth. Again I did not feel like this was impossible to deal with, but it certainly added more time then needed.
 
 <img width="600px" class="rounded float-start pe-4" src="../img/1.png">
-<img width="800px" class="rounded float-start pe-4" src="../img/2.png">
-<img width="800px" class="rounded float-start pe-4" src="../img/3.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/2.png">
+<img width="700px" class="rounded float-start pe-4" src="../img/3.png">
 
 
 
