@@ -23,6 +23,9 @@ My experience with Bootstrap never felt 100% easier to be completely honest. The
 
 ## Looking for an exit
 
+<img width="600px" class="w3-round" src="../img/img1.png">
+<img width="600px" class="w3-round" src="../img/img2.png">
+
 I first struggled with Bootstrap on our assignment where we needing to mimick a website of our choice. I choose to do the 'Hermitcraft Website' a website of minecraft youtubers who I very much enjoy. This experience was a mixture of emotions. It felt very enjoyable and although I experienced many challenges I needed to solve, I never felt like giving up. This experience is very much the reason I enjoy learning computer science. I find that I often have difficulties in my courses, but in the end I often feel satisfied in my new learnings and complementions
 
 
