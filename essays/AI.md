@@ -11,6 +11,8 @@ labels:
   - Software Engineering
 ---
 
+<img width="600px" class="w3-round" src="../img/AI.png">
+<img width="600px" class="w3-round" src="../img/bingai.png">
 
 
 ### I. Introduction
