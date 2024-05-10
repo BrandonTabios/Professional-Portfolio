@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Fighting Fire with Fire"
+title: "Diving into the Sea of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-09
 published: True
