@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/songpfp.png
+image: img/logo1.png
 title: "River-Bot"
 date: 2023-10-04
 published: true
