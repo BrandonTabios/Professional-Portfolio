@@ -7,7 +7,7 @@ date: 2024-04-03
 published: true
 labels:
   - Web Design
-  - HTML/CSS/JS
+  - React.js HTML/CSS/JS
 summary: "I created my own personal website in order to try and grow myself as a content creator."
 ---
 
