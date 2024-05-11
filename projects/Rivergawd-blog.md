@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/discord.png
+image: img/rivergawdblog.png
 title: "Making my own website"
 date: 2024-04-03
 published: true
