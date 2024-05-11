@@ -32,6 +32,11 @@ For my side of the project I was in charge of two of the main pages the About Pa
 <img width="400px" class="w3-round" src="../img/mfc2.png">
 Besides these two pages I worked on smaller tasks like the landing page for users not logged in, and making the website look cleaner.
 
+
+## Important Takeaways
+
+One of the big things that I learned from this is not to be the guy that people can't rely upon. It is really easy for solo projects to be forgotten, but you cannot do that for a team project. People rely on you to create what you make and you have that same expectation for others. Secondly it is important to communicate well with your team on what is happening. If people are expecting something from you, either you need to get it done, or explain any of the blockers preventing it from getting done. However, when everyone puts in the work, it is great to look back on an amazing thing that people together can create.
+
 Read more about our project here: https://manoa-fit-connect.github.io/
 
 See the website in full action here: https://manoafitconnect.com
