@@ -4,7 +4,7 @@ type: essay
 title: "Patterns become Formulas"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
-published: True
+published: false
 labels:
   - Software Engineering
   - Coding
