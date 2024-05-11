@@ -4,7 +4,7 @@ type: essay
 title: "Ask Smart To Be Smart"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
-published: true
+published: false
 labels:
 
 ---
