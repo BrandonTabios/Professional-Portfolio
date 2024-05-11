@@ -20,10 +20,16 @@ When I first went to University one of the first things I noticed in comparison 
 
 The purpose for the application of Manoa Fit Connect is to help people in the community of Manoa to connect together at the gym. We planned multiple ways to do this. Such as having a friends page to connect with others, or joining upcoming events together. 
 
+<img width="600px" class="w3-round" src="../img/mfc0.png">
+
+
 ## My Work
 
 For my side of the project I was in charge of two of the main pages the About Page, and the Events Page. The About Page is much more simple in comparison, as the page only talks about our vision and each of us as members. The Events Page was where I put the majority of my effort. The Events Page held an event list and allowed any user to be able to post their event for others to see. It also acted similarly to a calendar where the events were sorted by month viewed. The top menu of the site also has a bell that states about upcoming events happenign soon.
 
+<img width="400px" class="w3-round" src="../img/mfc1.png">
+
+<img width="400px" class="w3-round" src="../img/mfc2.png">
 Besides these two pages I worked on smaller tasks like the landing page for users not logged in, and making the website look cleaner.
 
 Read more about our project here: https://manoa-fit-connect.github.io/
