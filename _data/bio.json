@@ -10,21 +10,18 @@
     "location": { "address": "", "postalCode": "96701", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "BrandonTabios", "url": "https://github.com/BrandonTabios" },
-      { "network": "linkedin", "brandontabios": "mollymaluhia", "url": "https://www.linkedin.com/in/brandon-tabios-4aa0782aa/" },
-      { "network": "twitter", "username": "rivergawd1", "url": "http://twitter.com/rivergawd1" }
+      { "network": "linkedin", "username": "Brandon Tabios", "url": "https://www.linkedin.com/in/brandon-tabios-4aa0782aa/" },
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
     { "name": "Game Design and Development" },
     { "name": "Data Analysis and Collection" },
-    { "name": "Sustainability" },
     { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS"]
     },
     {
       "name": "Toolsets/OS",
