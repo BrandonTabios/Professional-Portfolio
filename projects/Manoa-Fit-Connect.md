@@ -30,6 +30,7 @@ For my side of the project I was in charge of two of the main pages the About Pa
 <img width="400px" class="w3-round" src="../img/mfc1.png">
 
 <img width="400px" class="w3-round" src="../img/mfc2.png">
+
 Besides these two pages I worked on smaller tasks like the landing page for users not logged in, and making the website look cleaner.
 
 
