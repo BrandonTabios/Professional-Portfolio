@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/game2.png
+image: img/logo2.png
 title: "Manoa Fit-Connect"
 date: 2024-01-06
 published: true
