@@ -34,6 +34,6 @@ Besides these two pages I worked on smaller tasks like the landing page for user
 
 Read more about our project here: https://manoa-fit-connect.github.io/
 
-See the website in full action here: https://manoa-fit-connect.com
+See the website in full action here: https://manoafitconnect.com
 
 
