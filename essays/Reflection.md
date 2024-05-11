@@ -11,6 +11,8 @@ labels:
   - Reflection
 ---
 
+<img width="600px" class="w3-round" src="../img/softwareengineering.jpg">
+
 ## Stepping into the Ocean
 
 Software Engineering is such a broad word for what it truly encompasses. It is so much more vast than people may expect. Software engineering is needed for web design, app design, game design, and it even gets broader than that. Is your application ready for mobile users? Is it easy to navigate and access? It feels to me it is impossible to master being a software engineer, the more you learn the deeper and deeper you are able to develop. At some points you can feel isolated and stranded, but at the same time when you figure things out they became all the more rewarding. Learning software engineering is a lot like learning how to swim. At the start, you need to take it slow. If you dive into the deep end you won't make it out and create anything. You need to learn the fundamentals, which in coding standards would be the respective language you are coding in. All those skills come together until you eventually feel free and confident in what you are doing. 
