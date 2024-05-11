@@ -4,7 +4,7 @@ type: project
 image: img/game2.png
 title: "Creating a game with my friend"
 date: 2024-01-06
-published: true
+published: false
 labels:
   - Game Design
   - Planning
