@@ -11,7 +11,7 @@ labels:
 summary: "I created my own personal website in order to try and grow myself as a content creator."
 ---
 
-
+<img width="600px" class="w3-round" src="../img/rivergawdblog.png">
 ## The Legend of the Rivergawd
 
 I learned how to create a website through my ICS314 course. I later saw an opportunity for a job that needed web design and created a website as proof of knowledge that I could make one. Despite the fact that I learned how to do things in class, making my own projects without any guideline proved to be quite difficult. Everything that is implemented on the site is created by me. Without a template or guidelines I could follow I often times felt lost. However I eventually got my site up and running and can proudly present it today.
