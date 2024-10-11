@@ -16,12 +16,12 @@
   "interests": [
     { "name": "Game Design and Development" },
     { "name": "Data Analysis and Collection" },
-    { "name": "Machine Learning" }
+    { "name": "Machine Learning and Research Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS"]
+      "keywords": [ "C", "C++", "Java", "Python", "HTML/CSS/JavaScript"]
     },
     {
       "name": "Toolsets/OS",
@@ -31,25 +31,25 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science & German(expected Spring, 2025)",
+      "area": "Computer Science & German(expected Fall, 2024)",
       "studyType": "B.A.",
       "startDate": "2020-09-01",
-      "endDate": "2025-05-01",
+      "endDate": "2024-12-17",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Genki Sushi",
-      "position": "Maki Sushi Chef",
+      "company": "Language and Technology Center at UH",
+      "position": "Research Assistant",
       "website": "",
-      "startDate": "2019-12-05",
-      "endDate": "2020-06-20",
-      "summary": "Sushi chef at Genki Sushi",
+      "startDate": "2024-08-01",
+      "endDate": "2024-09-01",
+      "summary": "Assistant towards using AI as a tool for Secondary Language Learning",
       "highlights": [
-        "Learned how to prepare sushi in a quickly and eloquent fashion",
-        "Taught many time management skills, as I worked in highschool"
+        "Learned Research analysis, Professional Documentation, Software for Data Analysis",
+        "Experience working in an office as a team"
       ]
     },
     {
@@ -69,20 +69,21 @@
   "awards": [
     {
       "title": "LLEA BA: German Studies ACHIEVEMENT AWARD RECIPIENT",
-      "date": "Fall 2023",
+      "date": "Fall 2023 - Spring 2023",
       "awarder": "German Department at UHM",
       "summary": "German achievement award towards hard working students in the department. Also provided scholarship money as a recipient."
     },
     {
-      "title": "LLEA BA: German Studies ACHIEVEMENT AWARD RECIPIENT",
-      "date": "Spring 2023",
-      "awarder": "German Department at UHM",
-      "summary": "A second award for the spring semester."
+      "title": "Hawaii Community Foundation Award",
+      "date": "Fall 2024",
+      "awarder": "Hawaii Community Foundation",
+      "summary": "An award recognizing work the bring towards developing Hawaii"
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Naiyi Xie Fincham (naiyixf@hawaii.edu)"
+      "name": "Aitor Alvarez (arronte@hawaii.edu)"
     }
   ]
 }
