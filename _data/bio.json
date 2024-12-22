@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "BrandonTabios", "url": "https://github.com/BrandonTabios" },
-      { "network": "linkedin", "username": "brandonktabios", "url": "www.linkedin.com/in/brandonktabios" },
+      { "network": "linkedin", "username": "brandonktabios", "url": "www.linkedin.com/in/brandonktabios" }
     ]
   },
   "interests": [
@@ -43,7 +43,7 @@
     {
       "company": "Language and Technology Center at UH",
       "position": "Research Assistant",
-      "website": "",
+      "website": "https://clt.manoa.hawaii.edu/",
       "startDate": "2024-08-01",
       "endDate": "2024-09-01",
       "summary": "Assistant towards using AI as a tool for Secondary Language Learning",
@@ -68,7 +68,7 @@
 
   "awards": [
     {
-      "title": "LLEA BA: German Studies ACHIEVEMENT AWARD RECIPIENT",
+      "title": "LLEA BA: German Studies Achievement Award Recipient",
       "date": "Fall 2023 - Spring 2023",
       "awarder": "German Department at UHM",
       "summary": "German achievement award towards hard working students in the department. Also provided scholarship money as a recipient."
@@ -82,8 +82,11 @@
   ],
   "references": [
     {
-      "name": "Naiyi Xie Fincham (naiyixf@hawaii.edu)"
-      "name": "Aitor Alvarez (arronte@hawaii.edu)"
+      "name": "Naiyi Xie Fincham",
+      "email": "naiyixf@hawaii.edu"
+      
+      "name": "Aitor Alvarez",
+      "email": "arronte@hawaii.edu"
     }
   ]
 }
