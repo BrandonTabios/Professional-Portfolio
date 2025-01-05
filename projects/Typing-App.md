@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo2.png
+image: img/typing-app-showcase.png
 title: "Typing App"
 date: 2025-01-03
 published: true
