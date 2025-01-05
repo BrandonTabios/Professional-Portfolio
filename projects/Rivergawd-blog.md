@@ -29,7 +29,7 @@ I believe this project is never ending because nothing ever claims it as done. I
 
 This project is something that I keep adding to as I learn more and more into software engineering. I put the skills I learned from React.js and implemented them but there is still much more I could add. I want to embed new videos or live streams so that any viewer would instantly be aware of new videos being released. I want to be able to read APIs and display them for things in specific online competitive games. I am glad I was able to showcase what I learned from a class and what to keep doing more. 
 
-Link to the GitHub Repository here: https://github.com/BrandonTabios/BrandonTabios.github.io
-Link to the Website: https://rivergawdv1.github.io/rivergawd-blog/
+[Link to the GitHub Repository](https://github.com/BrandonTabios/BrandonTabios.github.io)  
+[Link to the Website](https://rivergawdv1.github.io/rivergawd-blog/)
 
 
